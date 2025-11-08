@@ -1,2 +1,2 @@
-# sknorr.github.com
+# sknorr.github.io
 Homepage
